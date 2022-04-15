@@ -19,8 +19,6 @@
   <a href = "mailto:housedani35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-daniel-mota-medeiros-b77418202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-    ![Snake animation](https://github.com/DanielMota25/DanielMota25/blob/output/github-contribution-grid-snake.svg)
-
  
 </div>
   
