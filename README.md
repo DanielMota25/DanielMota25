@@ -1,4 +1,4 @@
-### Oiii eu sou o Daniel Mota, estudante de programação, cibersecurity, design e apaixonado por tecnologia !!!
+### Oiii eu sou o Daniel Mota, estudante de programação, cibersecurity, design e apaixonado por tecnologia.
 
 <div align="left">
   <a href="https://github.com/DanielMota25">
