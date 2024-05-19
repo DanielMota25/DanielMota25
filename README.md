@@ -1,6 +1,6 @@
 ##  Olá eu sou Daniel Mota 👋 
 Um Jovem apaixonado por tecnologia e design. Técnico em Desenvolvimento de Sistemas pela ETEC
-e estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar.🚀
+e estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar. 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-daniel-mota-medeiros/)
 
